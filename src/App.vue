@@ -9,7 +9,7 @@
 <style lang="scss">
 #app {
   background-color: rgb(46, 69, 91);
-  height: 100vh;
+  height: 50vh;
 }
 
 
